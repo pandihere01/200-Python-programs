@@ -1,0 +1,5 @@
+string = input()
+convert_lowercase = string.lower()
+convert_uppercase = string.upper()
+print(convert_lowercase)
+print(convert_uppercase)
